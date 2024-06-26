@@ -1,4 +1,4 @@
-# Loan Default Prediction Project
+# Lending Club Case Study
 > This project aims to identify patterns indicating whether a loan applicant is likely to default, based on their profile.
 
 ## Table of Contents
